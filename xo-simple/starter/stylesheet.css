@@ -1,0 +1,15 @@
+.box {
+  width: 150px;
+  height: 150px;
+  margin:auto;
+  display: inline-block;
+  border: 1px solid gray;
+  border-radius: 2px;
+  background: #D8D8D8;
+}
+.box-red {
+  background: #FF0000;
+}
+.box-blue {
+  background: #2E2EFE;
+}
